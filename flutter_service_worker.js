@@ -7,7 +7,7 @@ const RESOURCES = {
 "assets/FontManifest.json": "4caa00cd4f76fb42536b8f3d1afba733",
 "assets/fonts/Anton-Regular.ttf": "055c4df4e2f8c7a4d4675cdd8fa68da0",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/lib/assets/pardologo.png": "325222d657ffb1c04bc0e5dfcc5ffc8e",
+"assets/lib/assets/pardologo.PNG": "325222d657ffb1c04bc0e5dfcc5ffc8e",
 "assets/NOTICES": "94612e3cd535f16e8db36bec303690a7",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
@@ -20,9 +20,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "3114b6d727969fa558228dbedc517f05",
-"/": "3114b6d727969fa558228dbedc517f05",
-"main.dart.js": "a5edf4fc876d1d28085fc5b7ca53c972",
+"index.html": "69c1329f3410cfcb006bd2f1e9c23e14",
+"/": "69c1329f3410cfcb006bd2f1e9c23e14",
+"main.dart.js": "63c4f5afc675daaea68dff9adcc18160",
 "manifest.json": "835c8f2d51e0005ace0ce7d6862c089b",
 "version.json": "4d50e19e057e8bb601a45939683b5fc4"
 };
